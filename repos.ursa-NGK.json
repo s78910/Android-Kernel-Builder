@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "NGK_android_kernel_xiaomi_sdm845",
-      "repo": "https://github.com/Xiaomi-sdm845-KSU/NGK_android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/s78910/Xiaomi_Kernel_OpenSource-sdm845",
       "branch": "t-caf-ksu",
       "device": "ursa",
       "defconfig": "nogravity-ursa_defconfig"
